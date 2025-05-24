@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('Hello from module -a v2 ')
+    console.log('Hello from module -a v3 ')
 }
